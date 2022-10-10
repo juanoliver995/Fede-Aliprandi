@@ -21,7 +21,7 @@ const Description = () => {
             <SwiperSlide>
                 <div className='contain-slide'>
                     <div>
-                        <img src='../../public/images/slider-1.jpg' />
+                        <img src='./images/slider-1.jpg' />
                     </div>
                     <div>
                         <h2>Experienced Producer</h2>
@@ -32,7 +32,7 @@ const Description = () => {
             <SwiperSlide>
                 <div className='contain-slide'>
                     <div>
-                        <img src='../../public/images/slider-2.jpg' />
+                        <img src='./images/slider-2.jpg' />
                     </div>
                     <div>
                         <h2>International Support</h2>
@@ -43,7 +43,7 @@ const Description = () => {
             <SwiperSlide>
                 <div className='contain-slide'>
                     <div>
-                        <img src='../../public/images/slider-3.jpg' />
+                        <img src='./images/slider-3.jpg' />
                     </div>
                     <div>
                         <h2>Heard Worldwide</h2>
@@ -54,7 +54,7 @@ const Description = () => {
             <SwiperSlide>
                 <div className='contain-slide'>
                     <div>
-                        <img src='../../public/images/slider-4.jpg' />
+                        <img src='./images/slider-4.jpg' />
                     </div>
                     <div>
                         <h2>Choose the genre you want</h2>
