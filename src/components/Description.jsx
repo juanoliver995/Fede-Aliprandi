@@ -9,7 +9,7 @@ const Description = () => {
     return (
         <Swiper
             modules={[Autoplay]}
-            spaceBetween={10}
+            spaceBetween={100}
             slidesPerView={1}
             autoplay={{
                 delay: 4000,
