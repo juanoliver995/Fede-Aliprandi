@@ -6,7 +6,7 @@ const Player = ({ trackListen }) => {
 
     return (
         <div className='container-player'>
-            {trackListen.id ? (<Waveform url={url} play={play} />) : null}
+            {trackListen.id ? (<Waveform url={url} />) : null}
         </div>
     )
 }

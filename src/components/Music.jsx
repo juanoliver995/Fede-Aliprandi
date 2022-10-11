@@ -7,7 +7,9 @@ const Music = ({ track, handlePlay }) => {
         <div className="track-container">
             <h1>{name}</h1>
             <div className="img-music-container">
-                <img src="./public/images/sonido.png" />
+                <div className="circle-music">
+                    <img src="./public/images/music-svg.svg" />
+                </div>
             </div>
             <audio src={url} id={id}>
             </audio>
