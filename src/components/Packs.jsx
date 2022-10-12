@@ -52,10 +52,10 @@ const Packs = () => {
                             </div>
                         </div>
                         <div className='buttons-packs'>
-                            <p>Contact Me</p>
+                            <p>Buy Now</p>
                             <div>
                                 <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiver</a>
-                                <a href='https://walink.co/1c22e2'>Wathsapp</a>
+                                <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
                     </article>
@@ -104,10 +104,10 @@ const Packs = () => {
                             </div>
                         </div>
                         <div className='buttons-packs'>
-                            <p>Contact Me</p>
+                            <p>Buy Now</p>
                             <div>
                                 <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiver</a>
-                                <a href='https://walink.co/1c22e2'>Wathsapp</a>
+                                <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
                     </article>
@@ -158,10 +158,10 @@ const Packs = () => {
                             </div>
                         </div>
                         <div className='buttons-packs'>
-                            <p>Contact Me</p>
+                            <p>Buy Now</p>
                             <div>
                                 <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiver</a>
-                                <a href='https://walink.co/1c22e2'>Wathsapp</a>
+                                <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
                     </article>

@@ -13,7 +13,7 @@ const Description = () => {
             spaceBetween={100}
             slidesPerView={1}
             autoplay={{
-                delay: 5000,
+                delay: 10000,
                 disableOnInteraction: false
             }}
         >

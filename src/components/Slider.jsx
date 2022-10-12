@@ -24,9 +24,6 @@ const Slider = () => {
                         <p>Deep House</p>
                     </div>
                     <div className='slide'>
-                        <p>Minimal Deep Tech</p>
-                    </div>
-                    <div className='slide'>
                         <p>House</p>
                     </div>
                     <div className='slide'>
@@ -43,9 +40,6 @@ const Slider = () => {
                     </div>
                     <div className='slide'>
                         <p>Deep House</p>
-                    </div>
-                    <div className='slide'>
-                        <p>Minimal Deep Tech</p>
                     </div>
                 </div>
             </div>

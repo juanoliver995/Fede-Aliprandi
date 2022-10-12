@@ -12,19 +12,19 @@ const Header = () => {
                     <p>DISCOVER ME IN</p>
                     <div className='container-social'>
                         <div>
-                            <a target="_blank" src="https://www.facebook.com/FedeAliprandi/"><img alt="icono facebook" src="./images/redes/facebook.svg" /></a>
+                            <a target="_blank" href="https://www.facebook.com/FedeAliprandi/"><img alt="icono facebook" src="./images/redes/facebook.svg" /></a>
                         </div>
                         <div>
-                            <a target="_blank" src="https://www.instagram.com/fedealiprandi/"><img alt="icono instagram" src="./images/redes/instagram.svg" /></a>
+                            <a target="_blank" href="https://www.instagram.com/fedealiprandi/"><img alt="icono instagram" src="./images/redes/instagram.svg" /></a>
                         </div>
                         <div>
-                            <a target="_blank" src="https://www.beatport.com/artist/fede-aliprandi/733181"><img alt="icono beatport" src="./images/redes/beatport.svg" /></a>
+                            <a target="_blank" href="https://www.beatport.com/artist/fede-aliprandi/733181"><img alt="icono beatport" src="./images/redes/beatport.svg" /></a>
                         </div>
                         <div>
-                            <a target="_blank" src="https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"><img alt="icono spotify" src="./images/redes/spotify.svg" /></a>
+                            <a target="_blank" href="https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"><img alt="icono spotify" src="./images/redes/spotify.svg" /></a>
                         </div>
                         <div>
-                            <a target="_blank" src="https://soundcloud.com/fedealiprandi"><img alt="icono soundcloud" src="./images/redes/soundcloud.svg" /></a>
+                            <a target="_blank" href="https://soundcloud.com/fedealiprandi"><img alt="icono soundcloud" src="./images/redes/soundcloud.svg" /></a>
                         </div>
                     </div>
                 </div>
