@@ -40,6 +40,7 @@ body {
   padding: 10px;
 }
 
+
 .container-nav a {
   margin-left: 10px;
   text-transform: uppercase;
@@ -463,6 +464,7 @@ body {
   text-align: center;
   text-transform: uppercase;
   cursor: pointer;
+  font-weight: bold;
 }
 
 .buttons-packs a:hover {
@@ -471,32 +473,6 @@ body {
   color: var(--ligth-color);
 }
 
-/* Contact */
-
-.container-contact {
-  display: grid;
-  justify-content: center;
-  grid-template-columns: 40% 60%;
-  width: 100%;
-}
-
-.item-contact {
-  width: 100%;
-}
-
-.item-contact.info {
-  margin-top: 50px;
-}
-
-.item-contact.info h2 {
-  font-size: 40px;
-  color: var(--primary-color);
-}
-
-.item-contact.info h3 {
-  font-size: 35px;
-  margin-top: 30px;
-}
 
 /* Footer */
 
