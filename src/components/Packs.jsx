@@ -1,13 +1,30 @@
-import React from 'react'
+import { motion } from "framer-motion"
+
 
 const Packs = () => {
+
     return (
         <div className='packs'>
             <img src="./images/wave.svg" />
             <h1 id='packs'>Services</h1>
             <div className='bg-packs'>
                 <div className='container-packs'>
-                    <article className='pack'>
+                    <motion.article
+                        initial={{
+                            opacity: 0,
+                            y: -200
+
+                        }}
+                        whileInView={{
+                            opacity: 1,
+                            y: 0
+                        }}
+                        transition={{
+                            duration: 2
+                        }}
+                        viewport={{ once: true }}
+                        className='pack'
+                    >
                         <div className='name-price'>
                             <h3>Basic</h3>
                             <p>$100 USD</p>
@@ -58,8 +75,23 @@ const Packs = () => {
                                 <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
-                    </article>
-                    <article className='pack'>
+                    </motion.article>
+                    <motion.article
+                        initial={{
+                            opacity: 0,
+                            y: -200
+
+                        }}
+                        whileInView={{
+                            opacity: 1,
+                            y: 0
+                        }}
+                        transition={{
+                            duration: 3
+                        }}
+                        viewport={{ once: true }}
+                        className='pack'
+                    >
                         <div className='name-price'>
                             <h3>Standard</h3>
                             <p>$200 USD</p>
@@ -110,8 +142,23 @@ const Packs = () => {
                                 <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
-                    </article>
-                    <article className='pack'>
+                    </motion.article>
+                    <motion.article
+                        initial={{
+                            opacity: 0,
+                            y: -200
+
+                        }}
+                        whileInView={{
+                            opacity: 1,
+                            y: 0
+                        }}
+                        transition={{
+                            duration: 4
+                        }}
+                        viewport={{ once: true }}
+                        className='pack'
+                    >
                         <div className='name-price'>
                             <h3>Premium</h3>
                             <p>$300 USD</p>
@@ -164,7 +211,7 @@ const Packs = () => {
                                 <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
-                    </article>
+                    </motion.article>
                 </div>
             </div>
         </div>

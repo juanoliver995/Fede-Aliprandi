@@ -1,13 +1,26 @@
 import React from 'react'
-
+import { motion } from 'framer-motion'
 const Header = () => {
     return (
         <div className='container header' id='hero'>
             <div>
-                <div className='title-header'>
+                <motion.div
+                    animate={{
+                        opacity: 1,
+                        y: 0
+
+                    }}
+                    initial={{
+                        y: -100
+                    }}
+                    transition={{
+                        duration: 2
+                    }}
+                    className='title-header'
+                >
                     <h1>Hi, I'm <span>Fede Aliprandi</span></h1>
                     <h1>Professional Ghost <span>Producer</span></h1>
-                </div>
+                </motion.div>
                 <div className='social-header'>
                     <p>DISCOVER ME IN</p>
                     <div className='container-social'>
@@ -29,9 +42,22 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            <div className='header-img'>
+            <motion.div
+                animate={{
+                    x: 0
+
+                }}
+                initial={{
+                    x: 500
+                }}
+
+                transition={{
+                    duration: 2
+                }}
+                className='header-img'
+            >
                 <img src='./images/header.png' />
-            </div>
+            </motion.div>
         </div>
     )
 }
