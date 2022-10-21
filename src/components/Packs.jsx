@@ -87,7 +87,7 @@ const Packs = () => {
                             y: 0
                         }}
                         transition={{
-                            duration: 3
+                            duration: 2
                         }}
                         viewport={{ once: true }}
                         className='pack'
@@ -154,7 +154,7 @@ const Packs = () => {
                             y: 0
                         }}
                         transition={{
-                            duration: 4
+                            duration: 2
                         }}
                         viewport={{ once: true }}
                         className='pack'
