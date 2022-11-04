@@ -5,7 +5,8 @@ const Packs = () => {
 
     return (
         <div className='packs'>
-            <img src="./images/wave.svg" />
+            <img src="./images/wave.svg" className="wave-svg"
+            />
             <h1 id='packs'>Services</h1>
             <div className='bg-packs'>
                 <div className='container-packs'>

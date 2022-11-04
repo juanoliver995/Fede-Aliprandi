@@ -344,7 +344,7 @@ body {
 
 /* Packs */
 
-.packs img {
+.packs .wave-svg {
   margin-top: -90px;
 }
 
@@ -599,7 +599,7 @@ body {
     max-width: 300px;
   }
 
-  .packs img {
+  .packs .wave-svg {
     margin-top: -60px;
   }
 }
