@@ -71,7 +71,7 @@ const Packs = () => {
                         <div className='buttons-packs'>
                             <p>Buy Now</p>
                             <div>
-                                <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiver</a>
+                                <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiverr</a>
                                 <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
@@ -138,7 +138,7 @@ const Packs = () => {
                         <div className='buttons-packs'>
                             <p>Buy Now</p>
                             <div>
-                                <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiver</a>
+                                <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiverr</a>
                                 <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>
@@ -207,7 +207,7 @@ const Packs = () => {
                         <div className='buttons-packs'>
                             <p>Buy Now</p>
                             <div>
-                                <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiver</a>
+                                <a href='https://es.fiverr.com/fedealiprandi/ghost-produce-tech-house-minimal-or-house-for-you'>Fiverr</a>
                                 <a href='https://walink.co/1c22e2'>Whatsapp</a>
                             </div>
                         </div>

@@ -27,6 +27,10 @@ body {
   color: var(--ligth-color);
 }
 
+#root {
+  overflow: hidden;
+}
+
 .container {
   width: 100%;
   max-width: 1440px;
@@ -339,6 +343,10 @@ body {
 }
 
 /* Packs */
+
+.packs img {
+  margin-top: -90px;
+}
 
 .packs h1 {
   background-color: var(--primary-color);
