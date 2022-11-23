@@ -12,7 +12,7 @@ const Nav = () => {
     return (
         <HeaderWrapper>
             <Link to="hero" spy={true} smooth={true} offset={50} duration={500}>
-                LOGO
+                <img src='./images/aliprandi-logo.png' />
             </Link>
             <Navbar open={open} handleClick={handleClick} />
             <MenuButton open={open} handleClick={handleClick} />

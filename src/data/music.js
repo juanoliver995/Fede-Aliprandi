@@ -1,9 +1,9 @@
 const music = [
-    { id: 1, name: "Feel The Music", url: "./music/y2mate.com - Feel The Music.mp3" },
-    { id: 2, name: "Concentrate", url: "./music/y2mate.com - Janeko Janeret  DJOKO  Concentrate.mp3" },
-    { id: 3, name: "Youre The One I Want", url: "./music/y2mate.com - THEOS  Berzingue  Youre The One I Want.mp3" },
-    { id: 4, name: "Youre The One I Want", url: "./music/y2mate.com - THEOS  Berzingue  Youre The One I Want.mp3" },
-    { id: 5, name: "Youre The One I Want", url: "./music/y2mate.com - THEOS  Berzingue  Youre The One I Want.mp3" }
+    { id: 1, name: "Demo 1", url: "./music/demo-1.mp3" },
+    { id: 2, name: "Demo 2", url: "./music/demo-2.mp3" },
+    { id: 3, name: "Demo 3", url: "./music/demo-3.mp3" },
+    { id: 4, name: "Demo 4", url: "./music/demo-4.mp3" },
+    { id: 5, name: "Demo 5", url: "./music/demo-5.mp3" }
 ]
 
 export {
