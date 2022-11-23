@@ -19,7 +19,7 @@ const Header = () => {
                     className='title-header'
                 >
                     <h1>Professional</h1>
-                    <h1>Ghost Producer</h1>
+                    <h1>Ghost <strong>Producer</strong></h1>
                 </motion.div>
                 <div className='social-header'>
                     <p>DISCOVER ME IN</p>

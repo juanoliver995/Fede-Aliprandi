@@ -29,6 +29,7 @@ export const NavbarWrapper = styled.nav`
     justify-content: flex-end;
     padding-top: 0;
     background-color: transparent;
+    gap: 20px;
     a {
       margin-bottom: 0px;
       margin-right: 0px;
