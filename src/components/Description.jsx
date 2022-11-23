@@ -46,7 +46,7 @@ const Description = () => {
                     </div>
                     <div className='slide-info'>
                         <h2>Heard Worldwide</h2>
-                        <p>Also, they have been featured in many big channels like BLANC, SPINNIN, HOUSESIX, SUBSOUL AND MORE!</p>
+                        <p>My tracks have been featured in many big channels like BLANC, SPINNIN, HOUSESIX, SUBSOUL AND MORE!</p>
                     </div>
                 </div>
             </SwiperSlide>

@@ -91,6 +91,7 @@ body {
   align-items: center;
   justify-content: space-around;
   margin: 0 auto;
+  gap: 20px;
 }
 
 .container-social img {
@@ -200,7 +201,7 @@ body {
   color: var(--primary-color);
   margin-bottom: 10px;
   font-family: var(--title-font);
-  text-align: center;
+  text-align: left;
 }
 
 .contain-slide div p {
@@ -603,6 +604,10 @@ body {
   .packs .wave-svg {
     margin-top: -60px;
   }
+
+  .contain-slide div h2 {
+    text-align: center;
+  }
 }
 
 @media (max-width: 440px) {
@@ -621,6 +626,7 @@ body {
 
   .contain-slide div h2 {
     font-size: 30px;
+    text-align: center;
   }
 
   .container-btn-play {

@@ -6,13 +6,15 @@ export const HeaderWrapper = styled.header`
   justify-content: space-between;
   padding: 10px;
   width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
   position: fixed;
   z-index: 1000;
   top: 0;
   background-color: #08090Ac0;
   backdrop-filter: blur(5px);
   img{
-    width: 150px;
+    width: 200px;
     height: auto;
     padding-left: 0px;
   }
